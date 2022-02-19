@@ -1,16 +1,16 @@
-**The programming languages I'm familiar with are...**
+**My favorite programming languages are...**
 
 ![python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![anaconda](https://img.shields.io/badge/-Anaconda-brightgreen?logo=anaconda&logoColor=white)
 
-**The programming languages I'm trying to learn are...**
+**The programming languages that I'm trying to learn...**
 
 ![html](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/-CSS-blue?logo=css3)
 ![javascript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![nodejs](https://img.shields.io/badge/-Node.js-brightgreen?logo=node.js&logoColor=white)
 
-**The programming languages I want to learn are...**
+**The programming languages that I want to learn...**
 
 ![GNU Bash](https://img.shields.io/badge/-Bash-white?logo=gnu%20bash&logoColor=black)
 ![C](https://img.shields.io/badge/-C-blueviolet?logo=c&logoColor=white)
