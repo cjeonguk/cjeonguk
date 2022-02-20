@@ -12,6 +12,7 @@
 
 **The programming languages that I want to learn...**
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/-Bash-white?logo=gnu%20bash&logoColor=black)
 ![C](https://img.shields.io/badge/-C-blueviolet?logo=c&logoColor=white)
 
