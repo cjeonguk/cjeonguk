@@ -10,13 +10,13 @@
 ![javascript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![nodejs](https://img.shields.io/badge/-Node.js-brightgreen?logo=node.js&logoColor=white)
 ![react](https://img.shields.io/badge/-React-black?logo=react)
+![Electron](https://img.shields.io/badge/-Electron-black?logo=electron&logoColor=skyblue)
 
 ![C](https://img.shields.io/badge/-C-blueviolet?logo=c&logoColor=white)
 
 **I want to learn...**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-black?logo=electron&logoColor=skyblue)
 
 ![GNU Bash](https://img.shields.io/badge/-Bash-white?logo=gnu%20bash&logoColor=black)
 
