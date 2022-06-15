@@ -4,13 +4,13 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-brightgreen?logo=anaconda&logoColor=white)
 
 ![HTML](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)
 ![Javascript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-brightgreen?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?logo=react)
 
 **I'm trying to learn...**
 
-![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-black?logo=electron&logoColor=skyblue)
 
